@@ -4,4 +4,4 @@ editing the third line
 editing the forth line
 to checking the repo
 editing the fifth line newly
-going to add the sixth line
+added the seventh line newly
